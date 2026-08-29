@@ -1,10 +1,8 @@
 李韶涵
 Java 后端开发工程师 · 22岁 · 期望城市：北京
 
-📬 联系方式
-📱 电话	📧 邮箱	💻 GitHub	🌐 作品集	📍 籍贯
-13460772183	2990732278@qq.com	lsh-src	shaohan-lab.pages.dev	河南开封
-🛠 技术栈
+📱 电话        📧 邮箱              💻 GitHub  🌐 作品集                 📍 籍贯  
+13460772183  2990732278@qq.com  lsh-src    shaohan-lab.pages.dev  河南开封   
 <details open>
 <summary><b>Java & JVM</b></summary>
 
