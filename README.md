@@ -1,74 +1,60 @@
 # 李韶涵
-
 Java 后端开发工程师｜22 岁｜期望城市：北京
-
 📬 **联系方式**
 
 | 项目 | 内容 |
 | --- | --- |
 | 📱 电话 | 13460772183 |
 | 📧 邮箱 | 2990732278@qq.com |
-| 💻 GitHub | [lsh-src](https://github.com/lsh-src) |
+| 💻 GitHub | [lsh‑src](https://github.com/lsh-src) |
 | 🌐 作品集 | [https://shaohan.aijava.workers.dev/](https://shaohan.aijava.workers.dev/) |
 | 📍 籍贯 | 河南开封 |
 
 ---
 
 ## 🎓 教育背景
-
 **河北工程大学 · 软件工程 本科**｜2023.09 – 2027.07
-
 - 🏆 国家励志奖学金（2024）
 - 🥈 第十五届蓝桥杯全国软件大赛省级二等奖（2024）
 
 ---
 
 ## 🛠 专业技能
-
 <details open>
 <summary><b>☕ Java 基础 & JVM</b></summary>
-
 熟练掌握集合框架及底层数据结构、并发编程（线程池、JUC、锁机制、AQS、ThreadLocal、虚拟线程）；深刻理解 JVM 内存模型、类加载机制、GC 算法（CMS/G1），具备 JVM 调优与内存泄漏排查经验
 </details>
 
 <details open>
 <summary><b>🔧 框架 & 微服务</b></summary>
-
 熟练使用 Spring Boot / Spring Cloud Alibaba，深刻理解 IoC、AOP、Bean 生命周期、循环依赖、自动配置原理；熟悉 Nacos、Gateway、Sentinel、Seata、OpenFeign 等微服务组件
 </details>
 
 <details open>
 <summary><b>💾 存储 & 中间件</b></summary>
-
 熟练掌握 MySQL 事务、索引、锁机制、MVCC、redo/undo/binlog；熟练使用 Redis 数据类型、持久化、哨兵、分布式锁、Lua 脚本、延迟队列；熟悉 RabbitMQ 可靠投递、手动 ACK、死信队列、幂等设计
 </details>
 
 <details open>
 <summary><b>🔍 搜索引擎 & 向量检索</b></summary>
-
 熟悉 Elasticsearch 倒排索引、分词、DSL 查询；掌握向量检索 + BM25 混合检索 + RRF 融合 + Reranker 精排的 RAG 架构；了解 Qdrant 向量数据库基本使用
 </details>
 
 <details open>
 <summary><b>🤖 AI 应用开发</b></summary>
-
 熟练使用 LangChain4j / Spring AI 构建 RAG 应用，掌握 Prompt 工程、上下文压缩、防幻觉溯源；了解 SSE 流式输出；善用 AI 编码工具辅助开发，可甄别修正生成代码逻辑缺陷
 </details>
 
 <details open>
 <summary><b>⚙️ 工程化</b></summary>
-
 熟练使用 Git、Docker、K8s 基础编排；熟悉单元/集成测试、接口压测、SQL 慢查分析
 </details>
 
 ---
 
 ## 💼 项目经历
-
 ### 📚 CodeWisdom・智码开发者知识库 RAG 平台
-
 **独立开发**｜2026.03 – 2026.05
-
 > 🛠 技术栈：Spring Boot 3 / LangChain4j / MySQL / Elasticsearch / Redis / RabbitMQ / Redisson / Docker / 通义千问
 > 🔗 GitHub：[https://github.com/lsh-src/code-wisdom](https://github.com/lsh-src/code-wisdom)
 > 🌐 项目地址：[http://8.160.191.116/](http://8.160.191.116/)
@@ -83,10 +69,8 @@ Java 后端开发工程师｜22 岁｜期望城市：北京
 ---
 
 ### 🎓 EduWisdom・智学 AI 在线学习平台
-
 **独立开发**｜2026.05 – 2026.07
-
-> 🛠 技术栈：Spring Cloud Alibaba / Spring Boot / Gateway / Nacos / Sentinel / Seata / MyBatis-Plus / MySQL / Redis / Redisson / RabbitMQ / Caffeine / LangChain4j / Qdrant / Vue 3 / Docker
+> 🛠 技术栈：Spring Cloud Alibaba / Spring Boot / Gateway / Nacos / Sentinel / Seata / MyBatis‑Plus / MySQL / Redis / Redisson / RabbitMQ / Caffeine / LangChain4j / Qdrant / Vue 3 / Docker
 > 🔗 GitHub：[https://github.com/lsh-src/edu-wisdom](https://github.com/lsh-src/edu-wisdom)
 
 基于 Spring Cloud Alibaba 构建 B2C 在线教育微服务平台，覆盖课程、订单、学习等核心业务，集成 AI 知识库问答与高并发选课能力。
@@ -99,7 +83,6 @@ Java 后端开发工程师｜22 岁｜期望城市：北京
 ---
 
 ## ✨ 核心优势
-
 - 💪 扎实的 Java 后端与微服务工程基础，独立完成多个高复杂度项目（RAG 平台、在线教育微服务平台）
 - 🤖 拥有完整 AI 应用落地实战经验，熟练基于 LangChain4j 完成混合检索、Prompt 工程、上下文压缩、防幻觉溯源整套 RAG 链路开发
 - 🛠 具备 JVM 调优、多级缓存、分布式锁、消息队列实战经验，定位解决过 ThreadLocal 内存泄漏、高并发优惠券超卖等线上类问题
